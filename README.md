@@ -2,30 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <style>
-  body {
-   font-size: 16px;
-  }
-  .part {
-    padding: 80px 20px;
-    min-height: 100vh;
-}
-
-
-.part-2 {
-    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-    color: white;
-}
-  </style>
-    <title>HTML Academy - лучшие уроки программирования!</title>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <!--
-      Need a visual blank slate?
-      Remove all code in `styles.css`!
-    -->
-    <link rel="stylesheet" href="styles.css" />
-    <script type="module" src="script.js"></script>
   </head>
   <body>
     <main>
