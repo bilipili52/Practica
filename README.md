@@ -11,10 +11,6 @@
     min-height: 100vh;
 }
 
-.part-1 {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-}
 
 .part-2 {
     background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
@@ -32,17 +28,14 @@
     <script type="module" src="script.js"></script>
   </head>
   <body>
-    <nav>
-      <a href="/" aria-current="page">Home</a>
-      <a href="/page2.html">Other page</a>
-    </nav>
     <main>
-    <div class="part part-1">
+    <div class="part"><div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%)";
+    color: white;>
     <b><center><h1>HTML Academy - лучший сайт для обучения программированию!</h1>
       <img src="https://avatars.githubusercontent.com/u/117089515?v=4?s=400"</center>
     <br><br><br>HTML Academy является лучшим сайтам по онлайн-курсам по программированию! Здесь ты можешь создавать программы, игры, анимации и сайты!</b>
     <b><br><a href="https://htmlacademy.ru/">Перейти на сайт</a></b>
-    </div>
+    </div></div>
     <div class="part part-2">
     <h2><img src="https://imgopt.infoq.com/fit-in/3000x4000/filters:quality(85)/filters:no_upscale()/news/2020/05/GitHub-codespaces-discussions/en/resources/1github-satellite-2020-1-1588845045294.jpeg" style="float: left; margin-right: 15px;"
       width="500" 
