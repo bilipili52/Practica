@@ -26,7 +26,7 @@
 ## 🚀 Быстрый старт
 
 ### Посмотреть онлайн:
-Перейдите по ссылке: [GitHub Pages Demo](https://ваш-username.github.io/название-репозитория/)
+Перейдите по ссылке: [GitHub Pages Demo](https://bilipili52.github.io/Practica/)
 
 ### Запустить локально:
 ```bash
